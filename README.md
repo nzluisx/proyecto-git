@@ -1,6 +1,7 @@
 
 - INTEGRANTES:
 - LUIS GIANFRANCO NIÑO FALLA
+- Salas Bances Angel Eduardo
   # Sistema de Gestión de Reservas Hoteleras
 
 ## Nombre del proyecto
